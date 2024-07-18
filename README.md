@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/Priyanshusingh0818/SMS_Spam_Detection_ACM">
+  <a href="https://github.com/Adityapratapsingh28/Automatic-Colorization-of-Photos-using-Deep-Neural-Networks">
     <img src="https://camo.githubusercontent.com/dba0df27ff51ee5e3f50bf0207a83eb21e5017f0c42789b2aa79124d536556d3/68747470733a2f2f73726d7369676b646474657374696e672e76657263656c2e6170702f7374617469632f6d656469612f73726d7369676b64642e32336632353231643931333366316131303536662e706e67" alt="Logo" width="80" height="80">
   </a>
 
